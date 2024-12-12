@@ -19,7 +19,7 @@ This landing page collects links to some things I worked on while at NIST.
 
 REFPROP things:
 * [REFPROP-cmake](https://github.com/usnistgov/REFPROP-cmake) (CMake build tools to simplify building of REFPROP on all operating systems)
-* [REFPROP-cmake](https://github.com/usnistgov/REFPROP-wrappers) (Interfaces of NIST REFPROP for a wide range of computational environments, especially Python and Excel)
+* [REFPROP-wrappers](https://github.com/usnistgov/REFPROP-wrappers) (Interfaces of NIST REFPROP for a wide range of computational environments, especially Python and Excel)
 * [REFPROP-tests](https://github.com/usnistgov/REFPROP-tests) (Catch2 tests for NIST REFPROP, also regresssion testing, both native and docker-ized )
 * [REFPROP-interop](https://github.com/ianhbell/REFPROP-interop) (Routines for converting NIST REFPROP file formats to those of teqp/CoolProp)
 
