@@ -28,6 +28,7 @@ Thermodynamic things:
 * [teqp](https://github.com/usnistgov/teqp) (A new EOS implementation library with automatic differentiation) [![cibuildwheel](https://github.com/usnistgov/teqp/actions/workflows/build_cibuildwheel.yml/badge.svg)](https://github.com/usnistgov/teqp/actions/workflows/build_cibuildwheel.yml)
 * [temo](https://github.com/usnistgov/temo) (Model optimization with teqp)
 * [binfit](https://github.com/ianhbell/binfit) (Binary mixture interaction parameter fitting with deap)
+* [potter](https://github.com/usnistgov/potter) (C++ and Python code for working with pair potentials and calculating virial coefficients) [see also https://www.etomica.org/apps/virial/]
 
 Optimization-y things:
 * [CEGO](https://github.com/usnistgov/CEGO) (C++ evolutionary optimization) [![cibuildwheel](https://github.com/usnistgov/CEGO/actions/workflows/build_cibuildwheel.yml/badge.svg)](https://github.com/usnistgov/CEGO/actions/workflows/build_cibuildwheel.yml)
