@@ -24,6 +24,7 @@ REFPROP things:
 * [REFPROP-interop](https://github.com/ianhbell/REFPROP-interop) (Routines for converting NIST REFPROP file formats to those of teqp/CoolProp)
 
 Thermodynamic things:
+* [COSMO-SAC](https://github.com/usnistgov/COSMOSAC) (A reproducible implementation of the COSMO-SAC method)
 * [teqp](https://github.com/usnistgov/teqp) (A new EOS implementation library with automatic differentiation) [![cibuildwheel](https://github.com/usnistgov/teqp/actions/workflows/build_cibuildwheel.yml/badge.svg)](https://github.com/usnistgov/teqp/actions/workflows/build_cibuildwheel.yml)
 * [temo](https://github.com/usnistgov/temo) (Model optimization with teqp)
 * [binfit](https://github.com/ianhbell/binfit) (Binary mixture interaction parameter fitting with deap)
