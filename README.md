@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+📫 How to reach me: [LinkedIn](https://linkedin.com/in/ian-bell-3a261a2b)
+
 <!--
 **ianhbell/ianhbell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +18,8 @@ Here are some ideas to get you started:
 -->
 
 This landing page collects links to some things I worked on while at NIST.
+
+
 
 REFPROP things:
 * [REFPROP-cmake](https://github.com/usnistgov/REFPROP-cmake) (CMake build tools to simplify building of REFPROP on all operating systems)
