@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This landing page collects links to some things I worked on while at NIST.
-
-
+This landing page collects links to some things I worked on while at NIST between January 2015 and January 2025.
 
 REFPROP things:
 * [REFPROP-cmake](https://github.com/usnistgov/REFPROP-cmake) (CMake build tools to simplify building of REFPROP on all operating systems)
