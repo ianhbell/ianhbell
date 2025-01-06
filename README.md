@@ -28,6 +28,7 @@ REFPROP things:
 Thermodynamic things:
 * [COSMO-SAC](https://github.com/usnistgov/COSMOSAC) (A reproducible implementation of the COSMO-SAC method)
 * [teqp](https://github.com/usnistgov/teqp) (A new EOS implementation library with automatic differentiation) [![cibuildwheel](https://github.com/usnistgov/teqp/actions/workflows/build_cibuildwheel.yml/badge.svg)](https://github.com/usnistgov/teqp/actions/workflows/build_cibuildwheel.yml)
+* [teqp](https://github.com/usnistgov/teqpflsh) (Routines for super reliable and fast iterative calculations with thermodynamic models based on teqp) [![cibuildwheel](https://github.com/usnistgov/teqp/actions/workflows/build_cibuildwheel.yml/badge.svg)](https://github.com/usnistgov/teqpflsh/actions/workflows/build_cibuildwheel.yml)
 * [temo](https://github.com/usnistgov/temo) (Model optimization with teqp)
 * [binfit](https://github.com/ianhbell/binfit) (Binary mixture interaction parameter fitting with deap)
 * [potter](https://github.com/usnistgov/potter) (C++ and Python code for working with pair potentials and calculating virial coefficients) [see also https://www.etomica.org/apps/virial/]
