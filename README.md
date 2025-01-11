@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+As of January 10, 2025 this account will not be actively maintained as no longer work at NIST. For support, please see my contact info on LinkedIn. 
+
 📫 How to reach me: [LinkedIn](https://linkedin.com/in/ian-bell-3a261a2b)
 
 <!--
